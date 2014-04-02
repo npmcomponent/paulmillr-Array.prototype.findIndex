@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [paulmillr/array.prototype.findindex](http://github.com/paulmillr/array.prototype.findindex). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/paulmillr-array.prototype.findindex`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # ES6 `Array.prototype.findIndex` polyfill
 
 Simple ES6 [Array.prototype.findIndex](http://people.mozilla.org/%7Ejorendorff/es6-draft.html#sec-array.prototype.findindex) polyfill for older environments taken from [es6-shim](https://github.com/paulmillr/es6-shim).
